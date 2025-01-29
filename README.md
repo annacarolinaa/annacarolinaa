@@ -4,7 +4,7 @@ Sou uma <span style=" font-weight: bold;">profissional de multimídia</span> e <
 
 <div style="aling-items=center"><br />
 <a href="https://github.com/annacarolinaa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacarolinaa&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=annacarolinaa&layout=c]"/>
 </div>
 <br />
 
