@@ -17,12 +17,6 @@
 
 Sou uma profissional de multimídia e desenvolvedora de software apaixonada por contar histórias de forma visual. Gosto de unir estética, estratégia e tecnologia para criar projetos bonitos, funcionais e cheios de personalidade.
 
-## Sobre mim
-
-- Profissional de multimídia com olhar criativo e estratégico
-- Desenvolvedora focada em experiências visuais bonitas e funcionais
-- Apaixonada por design, vídeo, interface e narrativa visual
-
 ## Tecnologias e Ferramentas
 
 ### Design e Multimídia
@@ -49,8 +43,7 @@ Sou uma profissional de multimídia e desenvolvedora de software apaixonada por 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=annacarolinaa&show_icons=true&hide_border=true&title_color=F97316&icon_color=FB7185&text_color=CBD5E1&bg_color=0D1117" alt="Estatísticas do GitHub de Anna Carolina" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacarolinaa&layout=compact&langs_count=8&hide_border=true&title_color=F97316&text_color=CBD5E1&bg_color=0D1117" alt="Linguagens mais usadas por Anna Carolina" />
+<img src="https://streak-stats.demolab.com?user=annacarolinaa&theme=synthwave&hide_border=true" alt="annacarolinaa's GitHub Stats" />
 </p>
 
 ## Vamos nos conectar
