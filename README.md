@@ -42,6 +42,18 @@ Sou uma profissional de multimídia e desenvolvedora de software apaixonada por 
 <img src="https://streak-stats.demolab.com?user=annacarolinaa&theme=synthwave&hide_border=true" alt="annacarolinaa's GitHub Stats" />
 </p>
 
+<picture>
+  <source
+    srcset="https://shion.dev"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://shion.dev"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://shion.dev" />
+</picture>
+
 ## Vamos nos conectar
 
 <p align="center">
